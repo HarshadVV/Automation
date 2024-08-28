@@ -1,163 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[Login method executed]]>
+      <![CDATA[z]]>
     </line>
     <line>
-      <![CDATA[Login method executed]]>
+      <![CDATA[d]]>
     </line>
     <line>
-      <![CDATA[Login method executed]]>
+      <![CDATA[z]]>
     </line>
     <line>
-      <![CDATA[Login method executed]]>
+      <![CDATA[a]]>
     </line>
     <line>
-      <![CDATA[Login method executed]]>
+      <![CDATA[b]]>
     </line>
     <line>
-      <![CDATA[Login method executed]]>
+      <![CDATA[h]]>
     </line>
     <line>
-      <![CDATA[Login method executed]]>
-    </line>
-    <line>
-      <![CDATA[Login method executed]]>
-    </line>
-    <line>
-      <![CDATA[Login method executed]]>
-    </line>
-    <line>
-      <![CDATA[Login method executed]]>
-    </line>
-    <line>
-      <![CDATA[Logout method executed]]>
-    </line>
-    <line>
-      <![CDATA[Logout method executed]]>
-    </line>
-    <line>
-      <![CDATA[Logout method executed]]>
-    </line>
-    <line>
-      <![CDATA[Logout method executed]]>
-    </line>
-    <line>
-      <![CDATA[Logout method executed]]>
+      <![CDATA[n]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-08-27T15:50:36 IST" name="Default suite" finished-at="2024-08-27T15:50:36 IST" duration-ms="114">
+  <suite started-at="2024-08-28T12:28:14 IST" name="Default suite" finished-at="2024-08-28T12:28:14 IST" duration-ms="72">
     <groups>
     </groups>
-    <test started-at="2024-08-27T15:50:36 IST" name="Default test" finished-at="2024-08-27T15:50:36 IST" duration-ms="114">
-      <class name="TestNGFlags.InvocationCountFlag">
-        <test-method signature="login()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="login" finished-at="2024-08-27T15:50:36 IST" duration-ms="18" status="PASS">
+    <test started-at="2024-08-28T12:28:14 IST" name="Default test" finished-at="2024-08-28T12:28:14 IST" duration-ms="72">
+      <class name="TestNGFlags.PriorityFlag">
+        <test-method signature="z()[pri:-1, instance:TestNGFlags.PriorityFlag@19bb07ed]" started-at="2024-08-28T12:28:14 IST" name="z" finished-at="2024-08-28T12:28:14 IST" duration-ms="14" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Login method executed]]>
+              <![CDATA[z]]>
             </line>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="login()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="login" finished-at="2024-08-27T15:50:36 IST" duration-ms="2" status="PASS">
+        </test-method> <!-- z -->
+        <test-method signature="d()[pri:0, instance:TestNGFlags.PriorityFlag@19bb07ed]" started-at="2024-08-28T12:28:14 IST" name="d" finished-at="2024-08-28T12:28:14 IST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Login method executed]]>
+              <![CDATA[d]]>
             </line>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="login()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="login" finished-at="2024-08-27T15:50:36 IST" duration-ms="4" status="PASS">
+        </test-method> <!-- d -->
+        <test-method signature="g()[pri:0, instance:TestNGFlags.PriorityFlag@19bb07ed]" started-at="2024-08-28T12:28:14 IST" name="g" finished-at="2024-08-28T12:28:14 IST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Login method executed]]>
+              <![CDATA[z]]>
             </line>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="login()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="login" finished-at="2024-08-27T15:50:36 IST" duration-ms="2" status="PASS">
+        </test-method> <!-- g -->
+        <test-method signature="a()[pri:2, instance:TestNGFlags.PriorityFlag@19bb07ed]" started-at="2024-08-28T12:28:14 IST" name="a" finished-at="2024-08-28T12:28:14 IST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Login method executed]]>
+              <![CDATA[a]]>
             </line>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="login()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="login" finished-at="2024-08-27T15:50:36 IST" duration-ms="2" status="PASS">
+        </test-method> <!-- a -->
+        <test-method signature="b()[pri:3, instance:TestNGFlags.PriorityFlag@19bb07ed]" started-at="2024-08-28T12:28:14 IST" name="b" finished-at="2024-08-28T12:28:14 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Login method executed]]>
+              <![CDATA[b]]>
             </line>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="login()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="login" finished-at="2024-08-27T15:50:36 IST" duration-ms="2" status="PASS">
+        </test-method> <!-- b -->
+        <test-method signature="h()[pri:3, instance:TestNGFlags.PriorityFlag@19bb07ed]" started-at="2024-08-28T12:28:14 IST" name="h" finished-at="2024-08-28T12:28:14 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Login method executed]]>
+              <![CDATA[h]]>
             </line>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="login()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="login" finished-at="2024-08-27T15:50:36 IST" duration-ms="2" status="PASS">
+        </test-method> <!-- h -->
+        <test-method signature="n()[pri:3, instance:TestNGFlags.PriorityFlag@19bb07ed]" started-at="2024-08-28T12:28:14 IST" name="n" finished-at="2024-08-28T12:28:14 IST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Login method executed]]>
+              <![CDATA[n]]>
             </line>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="login()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="login" finished-at="2024-08-27T15:50:36 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login method executed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="login()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="login" finished-at="2024-08-27T15:50:36 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login method executed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="login()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="login" finished-at="2024-08-27T15:50:36 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login method executed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="logout()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="logout" finished-at="2024-08-27T15:50:36 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logout method executed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- logout -->
-        <test-method signature="logout()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="logout" finished-at="2024-08-27T15:50:36 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logout method executed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- logout -->
-        <test-method signature="logout()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="logout" finished-at="2024-08-27T15:50:36 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logout method executed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- logout -->
-        <test-method signature="logout()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="logout" finished-at="2024-08-27T15:50:36 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logout method executed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- logout -->
-        <test-method signature="logout()[pri:0, instance:TestNGFlags.InvocationCountFlag@6e4784bc]" started-at="2024-08-27T15:50:36 IST" name="logout" finished-at="2024-08-27T15:50:36 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logout method executed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- logout -->
-      </class> <!-- TestNGFlags.InvocationCountFlag -->
+        </test-method> <!-- n -->
+      </class> <!-- TestNGFlags.PriorityFlag -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
